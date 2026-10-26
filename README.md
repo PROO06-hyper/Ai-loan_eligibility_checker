@@ -1,5 +1,5 @@
 # LoanSense AI — AI-Powered Loan & Credit Decision Platform
-
+documentation https://github.com/PROO06-hyper/Ai-loan_eligibility_checker/blob/main/Ai_Loan_Eligibility_Checker_8_Page_College_Format.docx
 LoanSense AI is an AI-powered **BFSI (Banking, Financial Services & Insurance)** web platform designed to simplify financial decision-making through intelligent loan analysis, credit evaluation, EMI optimization, and personalized financial guidance.
 
 The platform combines **AI-driven financial analysis, credit insights, loan calculations, Google authentication, and Google Sheets integration** into a single modern dashboard.
